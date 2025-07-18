@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phendges7)](https://github.com/auraghazra/github-readme-stats)
+[Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
