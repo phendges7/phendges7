@@ -19,7 +19,7 @@ Ever wished you had your own Pokédex? I built a sleek, web-based Pokédex that 
 - **HTML**: Solid structure for a smooth user experience
 
 ## 🕹️ Featured Project: [web_project_api_full](https://github.com/phendges7/web_project_api_full)
-Take a look at my full-stack web project, live at [web-project-api-full-ochre.vercel.app](https://web-project-api-full-ochre.vercel.app)!  
+Take a look at my full-stack web project, [live on Vercel](https://web-project-api-full-ochre.vercel.app)!  
 This project is all about building dynamic, engaging user experiences using modern web technologies.
 
 ### 🧑‍💻 What I Do
