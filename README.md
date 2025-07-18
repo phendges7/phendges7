@@ -11,6 +11,11 @@ I'm a full-stack developer passionate about building interactive web experiences
 
 ---
 
+### 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react,express,&theme=dark)](https://skillicons.dev)
+
+---
+
 ## 🕹️ Featured Project: [pokedex-frontend](https://github.com/phendges7/pokedex-frontend)
 
 Ever wished you had your own Pokédex? I built a sleek, web-based Pokédex that showcases my frontend skills.  
@@ -28,13 +33,7 @@ This project is all about building dynamic, engaging user experiences using mode
 - Experiment with web APIs and modern JS frameworks
 - Turn ideas into pixel-perfect reality
 
-### 🚀 Skills
-- **JavaScript** (ES6+)
-- UI/UX design basics
-- Build full-featured single-page apps
-- Integrate APIs for real-time data and interaction
-- Make interfaces that are both beautiful and blazing fast
-- Solve creative problems with clean code and cool effects
+---
 
 Ready to explore?  
 Check out my repos, star your favorites, or drop a message if you want to collaborate.  
