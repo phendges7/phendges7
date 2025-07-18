@@ -1,4 +1,3 @@
-````markdown name=README.md
 <table>
   <tr>
     <!-- Left Column: Profile & Projects -->
@@ -58,4 +57,3 @@
     </td>
   </tr>
 </table>
-````
