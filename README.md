@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro!
 
-Welcome to my GitHub profile! If you enjoy web apps with a dash of creativity and a sprinkle of code wizardry, you’re in the right place.  
+If you enjoy web apps with a dash of creativity and a sprinkle of code wizardry, you’re in the right place.  
 I'm a full-stack developer passionate about building interactive web experiences with JavaScript, React and CSS with a touch of Node, Express and a lil bit of SQL.
 
 ---
@@ -11,8 +11,12 @@ I'm a full-stack developer passionate about building interactive web experiences
 
 ---
 
-### 🚀 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react,express,&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <h3>🚀 My Skills</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react,express,jest&theme=dark" alt="My Skills" />
+  </a>
+</div>
 
 ---
 
