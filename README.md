@@ -14,8 +14,9 @@ If you enjoy web apps with a dash of creativity and a sprinkle of code wizardry,
 
 <div align="center">
   <h3>🚀 My Skills</h3>
+  Git • GitHub • HTML • CSS • Javascript • React • Vite • MongoDB • SQL • Nodejs • Express • JEST • CI/CD
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react,express,jest&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,react,vite,mongodb,sql,nodejs,express,jest&theme=dark" alt="My Skills" />
   </a>
 </div>
 
