@@ -2,8 +2,7 @@
 
 A passionate and detail-oriented Junior Web Developer with a strong foundation in building responsive web applications. Recently requalified through the [TripleTen](https://tripleten.com/) full-stack bootcamp, where I focused on clean architecture, accessibility, and seamless UI experiences. I thrive in collaborative environments, bringing strong communication, adaptability, and a sharp eye for translating designs into pixel-perfect code. 
 
-If you enjoy web apps with a dash of creativity and a sprinkle of code wizardry, you’re in the right place.  
-I'm a full-stack developer passionate about building interactive web experiences with JavaScript, React and CSS with a touch of Node, Express and a lil bit of SQL.
+If you enjoy web apps with a dash of creativity and a sprinkle of code wizardry, you’re in the right place... I'm about building interactive web experiences with JavaScript, React and CSS with a touch of Node, Express and a lil bit of SQL.
 
 ---
 
