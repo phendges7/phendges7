@@ -46,10 +46,10 @@ Check out my repos, star your favorites, or drop a message if you want to collab
 Let’s make the web more awesome—one project at a time!
 
 <h5>You can contact me here:</h5>
-<a href="mailto:uk_hendges@outlook.com">
+<a href="mailto:uk_hendges@outlook.com" style="text-decoration:none;>
   <img src="https://skillicons.dev/icons?i=gmail" alt="MAIL" />
 </a>
-<a href="https://linkedin.com/in/phendges7">
+<a href="https://linkedin.com/in/phendges7" style="text-decoration:none;>
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN" />
 </a>
 
