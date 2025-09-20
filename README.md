@@ -42,5 +42,9 @@ This project is all about building dynamic, engaging user experiences using mode
 ---
 
 Ready to explore?  
-Check out my repos, star your favorites, or drop a message if you want to collaborate.  
+Check out my repos, star your favorites, or drop a message if you want to collaborate.
 Let’s make the web more awesome—one project at a time!
+You can contact me here:
+<a href="https://www.linkedin.com/in/phendges7/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/e37431d93b39d9afd20d39e22e4a0cfe9b60751c9e9cdde2579ab07bc0c29ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e3a25323048657269736f6e253230506572656972612d3030383735663f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68657269736f6e2f" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn:%20Herison%20Pereira-00875f?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/herison/" style="max-width: 100%;">
+</a>
