@@ -47,10 +47,10 @@ Let’s make the web more awesome—one project at a time!
 
 <h5>You can contact me here:</h5>
 <a href="mailto:uk_hendges@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="MAIL" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="MAIL" />
 </a>
 <a href="https://linkedin.com/in/phendges7">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LINKEDIN" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN" />
 </a>
 
 
